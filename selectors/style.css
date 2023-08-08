@@ -1,0 +1,34 @@
+/* Type selector
+Class selector
+ID selector
+Universal selector
+Attribute selector*/
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.big{
+    color:red;
+}
+.bold{
+    font-size: xx-large;
+}
+
+#one{
+    font-weight:10px ;
+}
+#two{
+    background-color: blue;
+}
+
+div{
+    text-decoration: underline;
+}
+
+input [disabled]{
+    width:300px;
+}
+
+input[type="text"]{
+    font-size: 30pt;
+}
