@@ -6,6 +6,7 @@
     /*display:inline-flex;*/
     background: bisque;
     flex-wrap: wrap;
+    
 }
 
 .item{
@@ -13,7 +14,9 @@
     margin: 10px;
     height: 50px;
     width: 50px;
-    background: lightseagreen;
+    background-color: lightseagreen;
     font-size: 20pt;
     color: white;
+    
 }
+

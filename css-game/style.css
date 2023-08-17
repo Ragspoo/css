@@ -15,7 +15,7 @@
 
 .player{
     transform: translateY(225px);
-    background: dodgerblue;
+    background-color: dodgerblue;
     animation: move 4s infinite;
     animation-play-state: paused;
 }

@@ -13,10 +13,9 @@
     background-color: darkcyan; 
     border: solid black 1px;
     display: inline-block;
-    /*animation: bounce 2s infinite;*/
-    
+    animation: bounce 2s infinite;
 }
-/*
+
 .one{
     animation-timing-function:ease-in;
 }
@@ -25,7 +24,7 @@
 }
 .three{
     animation-timing-function: linear;
-}*/
+}
 
 
 @keyframes bounce{
