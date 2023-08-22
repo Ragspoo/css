@@ -72,8 +72,8 @@ bottom, top, left, right => distance from that direction
 
 .child{
     position: absolute;
-    bottom: 0;
-    right:0;
+    bottom: 100px;
+    right: 100px;
     width: 100px;
     height: 100px;
     background-color: orangered;
